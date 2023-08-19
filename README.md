@@ -1,5 +1,7 @@
 # Jogo da Velha 👵
 
+![https://andreriffen.github.io/jogo-da-velha/](https://github.com/andreriffen/jogo-da-velha/blob/e8697662f522db956a6eb39e2bd4ffe4c4f06322/preview.jpg)
+
 Um simples jogo da velha (Tic-Tac-Toe) desenvolvido em HTML, CSS e JavaScript.
 
 ## 🕹️ [Jogar »](https://andreriffen.github.io/jogo-da-velha/)
